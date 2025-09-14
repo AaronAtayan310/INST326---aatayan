@@ -1,0 +1,9 @@
+Aaron Atayan
+INST326 - 0203
+
+Week 1:
+This week, I used Claude to help explain a couple concepts found in the week 1 exercise list. These concepts were
+related to removing whitespace and specific characters in a string, and how to correctly use the .find() and .rfind() 
+functions. I did not use Claude or any other AI to directly complete the week 1 exercises. This is the link to my
+Claude chat: https://claude.ai/chat/227e7b20-cb21-43bb-8986-7c2edfd4ac86
+I haven't used Claude or any other AI for anything else related to INST326 this week. 
