@@ -11,8 +11,10 @@ while True:
 
     if guess < answer:
         print("Guess is lower than Answer")
-    elif guess > answer:
+
+    if guess > answer:
         print("Guess is greater than Answer")
+
     else:
         if i == 1:
             print("Nice! You got it in one try!!")
