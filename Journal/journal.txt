@@ -13,3 +13,8 @@ Similar to last week, I used Claude to help clarify and explain some concepts fo
 to explain to me list searches, for loops, and the sort function. Like last week, I did not use Claude or other AI's to directly complete the week 2 exercises. 
 Claude chat link: https://claude.ai/chat/c5805c14-02e4-4f65-9513-adb436d2c3d3
 Though I did not personally use the AI, our project group used ChatGPT to help come up with more ideas for the project and to help create a more consice charter document. 
+
+Week 3:
+This week, I ended up not using AI for anything related to this class. However, I did use Google Chrome to search up certain functions and how to do things seen in the the week 3 exercises. I also used the module and slides from this week to help me. I did use ChatGPT for a couple other classes to better my understanding of concepts in those said classes (BSST200, INST311)
+https://chatgpt.com/share/68d9baef-4940-8007-9f80-3578c12c9048 (BSST200)
+https://chatgpt.com/share/68d9bb35-be14-8007-aba4-18570b229fca (INST311)
