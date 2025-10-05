@@ -21,3 +21,7 @@ I also used the module and slides from this week to help me. I did use ChatGPT f
 https://chatgpt.com/share/68d9baef-4940-8007-9f80-3578c12c9048 (BSST200)
 https://chatgpt.com/share/68d9bb35-be14-8007-aba4-18570b229fca (INST311)
 
+Week 4:
+This week, I used Claude quite a bit to help explain concepts regarding SQL from Inst327. I also used Claude this week
+to explain what the "sorted" function is and does and what the lambda key does as well. 
+https://claude.ai/share/1613e870-601e-40e8-9051-69a9b35d2b75
