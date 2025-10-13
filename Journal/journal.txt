@@ -25,3 +25,12 @@ Week 4:
 This week, I used Claude quite a bit to help explain concepts regarding SQL from Inst327. I also used Claude this week
 to explain what the "sorted" function is and does and what the lambda key does as well. 
 https://claude.ai/share/1613e870-601e-40e8-9051-69a9b35d2b75
+
+Week 5:
+This week I created a project folder in Claude to help with the semester group project. I had Claude generate functions
+that would be used in a data pipeline framework with proper documentation according to the Canvas page to get a better
+sense of what our project should look like and what it should do. 
+https://claude.ai/share/b5417c7c-3c5a-434c-afdb-82605d4066cd
+This week I also had an exam for BSST200 and I used ChatGPT to analyze my own notes so that it could create a 
+condensed version of my notes. I also had ChatGPT create a mock exam to help me practice for the real thing
+https://chatgpt.com/share/68ec6d4f-298c-8007-b9dc-3bcc5a5dc91f
