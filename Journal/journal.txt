@@ -34,3 +34,9 @@ https://claude.ai/share/b5417c7c-3c5a-434c-afdb-82605d4066cd
 This week I also had an exam for BSST200 and I used ChatGPT to analyze my own notes so that it could create a 
 condensed version of my notes. I also had ChatGPT create a mock exam to help me practice for the real thing
 https://chatgpt.com/share/68ec6d4f-298c-8007-b9dc-3bcc5a5dc91f
+
+Week 6:
+This week, I went back into my project folder in Claude and asked for help on creating some classes. It generated a sample class using some of my functions from the previous project. I am still in the process of creating the classes, but I am using Claude generated class as a foundation to build of off.
+https://claude.ai/share/b540601a-a1ca-486d-b2df-ac9aaa0b2beb
+I also used ChatGPT to help me study for an exam in BSST334. I uploaded my notes document and asked it to create a study guide for me. I also asked Chat to create a practice exam with question types that would be found in the real exam.
+https://chatgpt.com/share/68fecd74-ed14-8007-bcc1-85488c1cb812 
