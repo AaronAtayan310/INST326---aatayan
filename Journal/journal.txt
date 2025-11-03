@@ -40,3 +40,8 @@ This week, I went back into my project folder in Claude and asked for help on cr
 https://claude.ai/share/b540601a-a1ca-486d-b2df-ac9aaa0b2beb
 I also used ChatGPT to help me study for an exam in BSST334. I uploaded my notes document and asked it to create a study guide for me. I also asked Chat to create a practice exam with question types that would be found in the real exam.
 https://chatgpt.com/share/68fecd74-ed14-8007-bcc1-85488c1cb812 
+
+Week 7:
+This week, I continued working in the project folder in Claude, specifically with the classes of the group project. I actually didn't use much A.I. this week which I am proud of! Looking to next week though, I will be using an A.I. to help study for an exam I have on Tuesday, November 4th.
+https://claude.ai/project/0199c4e6-a5b1-703b-a63a-b66aaee8748b
+
